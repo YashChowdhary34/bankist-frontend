@@ -4,8 +4,6 @@ Bankist Frontend is a sleek and modern banking dashboard designed to deliver an 
 
 ## Dashboard Preview
 
-_Include your dashboard screenshot here:_
-
 ![Dashboard Preview](https://github.com/user-attachments/assets/bb97a1ac-970a-4dc7-90c2-f0496077f5ae)
 
 ## Table of Contents
